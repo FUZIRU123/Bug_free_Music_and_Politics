@@ -156,5 +156,3 @@ Webster, J. (2005). Beneath the Veneer of Fragmentation: Television Audience Pol
 Xu, W., Park, J., Kim, J., & Park, H. (2016). Networked Cultural Diffusion and Creation on YouTube: An Analysis of YouTube Memes. Journal Of Broadcasting & Electronic Media, 60(1), 104-122. doi: 10.1080/08838151.2015.1127241
 
 YouTube for Press. (2021). Retrieved 1 April 2021, from https://blog.youtube/press/
-
-![image](https://user-images.githubusercontent.com/49425386/117566773-3ea90700-b0eb-11eb-8eab-8a8d293e4983.png)
