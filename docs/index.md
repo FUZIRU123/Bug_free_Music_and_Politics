@@ -2,9 +2,9 @@
 
 Group Name: Bug-Free
 Group Members: 
-HU Wenli
-FU Ziru
-HUANG Zefei
+HU Wenli, 
+FU Ziru, 
+HUANG Zefei, 
 CHANG Yuanyuan
 
 Department of Communication, Hong Kong Baptist University
@@ -97,8 +97,9 @@ Figure 4: Node -> Label color -> in-degree
 Figure 5: Node -> size -> ranking -> weighted degree
 ### Results
 
- 
+![](“/Users/fuziru/Files/AIDM7410_Computational journalism/group_project_github/image/Picture 6.png”)
 Figure 6
+
 In Figure 6, the color represents the community which each node belongs to. For each dataset(A) which contains the comments of one singer’s 10 videos, if A shares most common users with dataset(B) which contains the comments of 20 videos about two president candidates. A and B will be rendered in one color(community). In Figure 3, the node of “Taylor_Swift” (left) shares most common users with the node of “Fox_News” (right). The nodes are both blue. We can also tell that Lady Gaga (left), Beyonce (left), Billie Ellish (left), Katy Perry (left) and Alice Cooper (right) share most common users with CNN (left), CBS (left) and Huffpost (left), so that they are in the same community. In addition, Kanye West (right), Ted Nugent (right), Kid Rock (right) and Jessica Simpson (right) share most common users with MSNBC (left), TYT (left), Newsmax (right), New York Post (right), YAHOO News (right) and the Daily Wire (right). The size of the node represents the popularity of the node. For example, among the 10 medias, the node of “CNN”and the node of “Fox_News” are the largest, which means they have more YouTube users who left comments on their videos than other medias.
 The data is well collected. We plan to find out some hidden relationships between videos. There are lots of common YouTube users who left on comments on a video of Joe Biden’s inauguration ceremony and a Lady Gaga music video. We could use cosine similarity, to measure the similarity between two videos’comments. Perhaps two videos can be tied closely and we could find out the relationship. We want to do text mining of the videos’comments. A left-leaning media and a right-leaning media both has a video reporting the 2020 presidential debate, but the keywords or the topics extracted from the comments might be different. We could use TF-IDF or topic-modeling to find the keywords of both videos’comments. 
 ## Discussion and conclusion
