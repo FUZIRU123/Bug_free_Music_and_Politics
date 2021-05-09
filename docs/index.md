@@ -97,7 +97,7 @@ Figure 4: Node -> Label color -> in-degree
 Figure 5: Node -> size -> ranking -> weighted degree
 ### Results
 
-![](“https://github.com/FUZIRU123/Bug_free_Music_and_Politics/blob/main/Picture%206.png”)
+![](“https://raw.githubusercontent.com/FUZIRU123/Bug_free_Music_and_Politics/main/Picture%206.png”)
 Figure 6
 
 In Figure 6, the color represents the community which each node belongs to. For each dataset(A) which contains the comments of one singer’s 10 videos, if A shares most common users with dataset(B) which contains the comments of 20 videos about two president candidates. A and B will be rendered in one color(community). In Figure 3, the node of “Taylor_Swift” (left) shares most common users with the node of “Fox_News” (right). The nodes are both blue. We can also tell that Lady Gaga (left), Beyonce (left), Billie Ellish (left), Katy Perry (left) and Alice Cooper (right) share most common users with CNN (left), CBS (left) and Huffpost (left), so that they are in the same community. In addition, Kanye West (right), Ted Nugent (right), Kid Rock (right) and Jessica Simpson (right) share most common users with MSNBC (left), TYT (left), Newsmax (right), New York Post (right), YAHOO News (right) and the Daily Wire (right). The size of the node represents the popularity of the node. For example, among the 10 medias, the node of “CNN”and the node of “Fox_News” are the largest, which means they have more YouTube users who left comments on their videos than other medias.
